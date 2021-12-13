@@ -30,7 +30,7 @@
   ],"sticker_packs": [
     {
       "id": "101",
-      "name": "JiminSticker",
+      "name": "SongJoongKiSticker",
       "folder_link":"file:///android_asset/1/",
       "image_cover": "00.png",
       "stickers": [
@@ -73,7 +73,7 @@
       ]
     },{
       "id": "102",
-      "name": "JiminSticker",
+      "name": "SongJoongKiSticker",
       "folder_link":"file:///android_asset/2/",
       "image_cover": "00.png",
       "stickers": [
