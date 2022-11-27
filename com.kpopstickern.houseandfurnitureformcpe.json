@@ -126,7 +126,7 @@
       "addB_url":"https://archive.org/download/furnitureminecraft/furnicraft-v11_4-behavior.mcpackk",
       "addR_url":"https://archive.org/download/furnitureminecraft/furnicraft-v11_4-resource.mcpack",
       "view_add":"https://i.imgur.com/XNkNQSA.jpeg",
-      "des_add":"https://archive.org/download/furniturhtmle/furniture1.html"
+      "des_add":"file:///android_asset/furniture1.html"
     },
 	{
       "id":2,
@@ -135,7 +135,7 @@
       "addB_url":"https://archive.org/download/furnitureminecraft/furniture-and-decorations-behaviorpack.mcpack",
       "addR_url":"https://archive.org/download/furnitureminecraft/furniture-and-decorations-texturepack.mcpack",
       "view_add":"https://i.imgur.com/gyrzXvC.jpg",
-      "des_add":"https://archive.org/download/furniturhtmle/furniture2.html"
+      "des_add":"file:///android_asset/furniture2.html"
     },
 	{
       "id":3,
@@ -144,7 +144,7 @@
       "addB_url":"https://archive.org/download/furnitureminecraft/modern-furniture-bp-v45.mcpack",
       "addR_url":"https://archive.org/download/furnitureminecraft/modern-furniture-rp-v45.mcpack",
       "view_add":"https://i.imgur.com/5MPHaeE.jpg",
-      "des_add":"https://archive.org/download/furniturhtmle/furniture3.html"
+      "des_add":"file:///android_asset/furniture3.html"
     }
   ],
   "Maps":
