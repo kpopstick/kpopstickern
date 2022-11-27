@@ -153,78 +153,78 @@
       "id":1,
       "name_map":"Presents Modern House",
       "map_url":"https://archive.org/download/housemapmcraft/Modern%20House.zip",
-      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
-      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+      "view_map":"https://i.imgur.com/TWF7kGi.jpg",
+      "des_map":"file:///android_asset/house01.html"
     },
 	{
       "id":2,
       "name_map":"Instant Houses Function Pack",
       "map_url":"https://archive.org/download/housemapmcraft/Instant%20Houses%20By%20EndXenoc.zip",
-      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
-      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+      "view_map":"https://i.imgur.com/IpD9to9.jpg",
+      "des_map":"file:///android_asset/house02.html"
     },
 	{
       "id":3,
       "name_map":"Modern House Series",
       "map_url":"https://archive.org/download/housemapmcraft/Modern%20House%20Series%20v0.1.zip",
-      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
-      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+      "view_map":"https://i.imgur.com/28GxDnJ.jpg",
+      "des_map":"file:///android_asset/house03.html"
     },
 	{
       "id":4,
       "name_map":"Rideable House",
       "map_url":"https://archive.org/download/housemapmcraft/Rideable%20House%21%20V2.zip",
-      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
-      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+      "view_map":"https://i.imgur.com/S6XLf3f.png",
+      "des_map":"file:///android_asset/house04.html"
     },
 	{
       "id":5,
       "name_map":"Sandview Modern House",
       "map_url":"https://archive.org/download/housemapmcraft/Sandview%20Modern%20House%20by%20FAL.zip",
-      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
-      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+      "view_map":"https://i.imgur.com/eVEHgCk.jpg",
+      "des_map":"file:///android_asset/house05.html"
     },
 	{
       "id":6,
       "name_map":"Seaside Modern House",
       "map_url":"https://archive.org/download/housemapmcraft/SeasideModernHouse.mcworld",
-      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
-      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+      "view_map":"https://i.imgur.com/OOQI4mI.jpg",
+      "des_map":"file:///android_asset/house06.html"
     },
 	{
       "id":7,
       "name_map":"Self-Building Modern House",
       "map_url":"https://archive.org/download/housemapmcraft/Self-Building%20Modern%20House%20July%202019.mcworld",
-      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
-      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+      "view_map":"https://i.imgur.com/vBA8U4C.jpg",
+      "des_map":"file:///android_asset/house07.html"
     },
 	{
       "id":8,
       "name_map":"Smart Modern House",
       "map_url":"https://archive.org/download/housemapmcraft/SmartModernHouse.zip",
-      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
-      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+      "view_map":"https://i.imgur.com/DlhPcWy.jpg",
+      "des_map":"file:///android_asset/house08.html"
     },
 	{
       "id":9,
       "name_map":"Safest Modern House And Farm House",
       "map_url":"https://archive.org/download/housemapmcraft/Modern%20Safest%20House%20v_1.7.mcworld",
-      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
-      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+      "view_map":"https://i.imgur.com/EnCQknp.jpg",
+      "des_map":"file:///android_asset/house09.html"
     },
 	{
       "id":10,
       "name_map":"Vintage Mansion & Village",
       "map_url":"https://archive.org/download/housemapmcraft/MadeByImpetus.zip",
-      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
-      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+      "view_map":"https://i.imgur.com/yT6yZwO.jpg",
+      "des_map":"file:///android_asset/house10.html"
     },
 	{
       "id":11,
       "name_map":"Woodlux Modern House",
       "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
-      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
-      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+      "view_map":"https://i.imgur.com/ZQul8RS.jpg",
+      "des_map":"file:///android_asset/house11.html"
     }
   ]
 }
