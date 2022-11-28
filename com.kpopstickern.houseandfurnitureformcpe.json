@@ -1,231 +1,544 @@
 {
-  "Ads":
-  [
-    {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "switch_open_ads":"1",
-      "switch_banner_natives_ads":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],
-
-  "More":
-  [
-    {
-      "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    }
-  ],
-  "Skin":
-  [
-    {
-      "id":1,
-      "name_skin":"Batman",
-      "skin_url":"https://lh3.googleusercontent.com/UyZKDkEo0Zsne-CjOWT8lfNcmqvlkYDPGCsEzPynY_F3jp_1MiKMYT4XhsvYjLn4_9OCK1Egl9c-852CzqA5zA",
-      "view_skin":"https://lh3.googleusercontent.com/4o0GJ9ES4NAvTCSpY7aua6soyK1_pbFXybTg_WjCVMMRzANpp66ocNSF4R_Hu4NPOh3kbH6nZTp95QGn8P_eV1g"
-    },
-    {
-      "id":2,
-      "name_skin":"Captain Marvel",
-      "skin_url":"https://lh3.googleusercontent.com/OfCeIDybTytw5cqRZlaVfiiAMMS-i3WiiRveFS6dxdQoprJvqJEcYWf-mfbL9B2gCg6USEnrj2ANuhd79h3EeQ",
-      "view_skin":"https://lh3.googleusercontent.com/3iQQ-SEjTFADYrVQHTttXDGNvGALTSfJcwa6uGMJb75SXsqbE7kUmUpXl3iWtEdhYu3NYLjBH9tq_c8FahdLIw"
-    },
-    {
-      "id":3,
-      "name_skin":"Ironman",
-      "skin_url":"https://lh3.googleusercontent.com/cw7kMNis22WSYQt3ald4CE0MGDIHEz6F117yi5siSfiADir_zYIsC6zT6K7rp2Zwn9aAXe841ULg_MUoAqpFWOM",
-      "view_skin":"https://lh3.googleusercontent.com/WRRFomiJcvyiCIAMZge6XfidYx8697Xq-dxs5MjP-APEoK0oVLXPUPNsBrhFYCJkDjPEQcj5kwUPibx7fGCbGgo"
-    },
-
-    {
-      "id":4,
-      "name_skin":"Spiderman",
-      "skin_url":"https://lh3.googleusercontent.com/KAoenQJU0Xm6LdpnM3I4h1oeL6z_kQXxSGlE00ONC8t4RDPsY5wmfYZL1VaapuZbS4im69s5ufdiXOEE_EHy0pdbBEbx8EdEFsE",
-      "view_skin":"https://lh3.googleusercontent.com/spXRERF9KUQCud5iVhjFQzTnqQ-ttyZJQgzvF22yc_-MRLbPLDAv2jvQ2896XCmZiyYlmzMo8rCyhCdLOWQJRlA"
-    },
-    {
-      "id":5,
-      "name_skin":"Deadpool",
-      "skin_url":"https://lh3.googleusercontent.com/Xy2u40iqg60XY_J9SGUAQWYvuRJVMEkDmJCzCLiCLWL0rIFbSYnTojyk60aZhDMJ62daSgUb4m90sgpRVZ4_",
-      "view_skin":"https://lh3.googleusercontent.com/SMkdgKEe6Rhx3X2_Qz_0BM1CqxhSGOIbCTCycr6SrdP_8kKl65nsOWfdsTypaso5lvPInfl9k_Cf5DNV9vPlRA"
-    },
-    {
-      "id":6,
-      "name_skin":"Captain Amerika",
-      "skin_url":"https://lh3.googleusercontent.com/oda0Fu14lq4LT-L8aGh9bBpwrymZZrz7K9owAmJ8CF0YSkaLa55vuSNZi-KYTMtpZubyhsXhbCja4C71Wba1",
-      "view_skin":"https://lh3.googleusercontent.com/yrkmUYbYxfePyHx1NRe5bPEJhPM3sqllvimkNwjaaVAxqfO0v9W9e_dG5781J6Ylg7D8C5CZeS2rMVN3t8ft"
-    },
-
-
-    {
-      "id":7,
-      "name_skin":"Wolverine",
-      "skin_url":"https://lh3.googleusercontent.com/ZfX6xK9-84eVmBlUhuq-V3jyQ3sRtXkMOle5VNL7clFTCVYjUQO2eGdO-D_Xf6r4mPTX_BEYN6bG4MANpIczGw",
-      "view_skin":"https://lh3.googleusercontent.com/uaJPGCy4OKO-l-kO31_bGPswxU8ChJPOUSjDGqE01F4Klla4xIOi7MzPdiLyeiWXTnYpDsKZy20RZknG5Sdo"
-    },
-    {
-      "id":8,
-      "name_skin":"The Hulk",
-      "skin_url":"https://lh3.googleusercontent.com/7yZA9_acJmYeL4XW31c3tL3AK0aoeJHoE3sAgiYBqk7Lca2MoOtMEaFaS9mJCqXzWjiO4t07caVMxYO7KJy9fYY",
-      "view_skin":"https://lh3.googleusercontent.com/zkEkVCgYXxLieG-H_5uzqiEFNz15H7d6kY_J_i6bZ9FC6DyBy-lZSVRmQQKFIq7WsMkHVxfZdECmJEi8FvheheM"
-    },
-    {
-      "id":9,
-      "name_skin":"Thor",
-      "skin_url":"https://lh3.googleusercontent.com/BgJkkp9d5LPaNMdIQv8xbG_dF8Px6rB7_SUZdmcykrMRAYHNqJ1812ZWs3f7XxRZ24TPy15-_CPIumEiCR1G",
-      "view_skin":"https://lh3.googleusercontent.com/-Q0vRAjwg9-9D-Np5YS8hJSIcgs8BtIw9nw_BRbZpz3azgyPGAPS5EJpJDBAVzm4V-ot5mbUobyQJgyyxsh9WA"
-    },
-
-    {
-      "id":10,
-      "name_skin":"Superman",
-      "skin_url":"https://lh3.googleusercontent.com/l1JqeAYBwvgznipUWLN3EA4q_W2ySXC7gZ1L86FymWPNFoWgQh9CAGNb_pGX6uqQfFeDuaMwJh2K2UkAQD8eBw",
-      "view_skin":"https://lh3.googleusercontent.com/7zmiS3wCq6Uszcg0O-NJRWAsepF47TT-lqujRgaf7NguiMUGTnl6iGeA6-h5-T458sddzA0WRH-iVM94u-U8"
-    },
-    {
-      "id":11,
-      "name_skin":"One Pouch Man",
-      "skin_url":"https://lh3.googleusercontent.com/BlXcjXTOPxMgMrQ7SJWOtznAZlkGxDJZ8KceboZEB_AbwwLAau_zbZfQgeF3H8BMX_XSTLAgnmxdL75XDTM7X8s",
-      "view_skin":"https://lh3.googleusercontent.com/RxMgIk1iuWLIVveEBieyMkcQfpSq7HyQgeUBIgwyuySBcGbmAd796pjVhxvlD3K67-LdWKjSfZOKOrtrze8l"
-    },
-    {
-      "id":12,
-      "name_skin":"Son Goku",
-      "skin_url":"https://lh3.googleusercontent.com/E7V0YcV9V0GP2fdr1gtCDmlPl00-zEvVPVkNdoYRMvnECblejwti7dXWGQJzh-ZAWOkw7BrUvHxONquFc6zbqg",
-      "view_skin":"https://lh3.googleusercontent.com/udrTngonhn0A-PxTDUMG3-jgzTF0Dj5ZBEj2c6v4BR-FAZpEnQKFQHbqkkQ7uAvQAPKGhbPfromeYJu7hnZ2"
-    }
-  ],
-  "Addons":
-  [
-    {
-      "id":1,
-      "name_add":"Furniture Pack",
-      "add_url":"https://archive.org/download/furniture-furnicraft-mod-addon/Furniture%20-%20Furnicraft%20Mod%20%20Addon%20For%20Minecraft%20PE%201.19.2%2C%201.18.32.zip",
-      "addB_url":"https://archive.org/download/furnitureminecraft/furnicraft-v11_4-behavior.mcpackk",
-      "addR_url":"https://archive.org/download/furnitureminecraft/furnicraft-v11_4-resource.mcpack",
-      "view_add":"https://i.imgur.com/XNkNQSA.jpeg",
-      "des_add":"file:///android_asset/furniture1.html"
-    },
-	{
-      "id":2,
-      "name_add":"Furniture and Decorations Pack",
-      "add_url":"https://archive.org/download/furniture-furnicraft-mod-addon/Furniture%20and%20Decorations%20Add-on.zip",
-      "addB_url":"https://archive.org/download/furnitureminecraft/furniture-and-decorations-behaviorpack.mcpack",
-      "addR_url":"https://archive.org/download/furnitureminecraft/furniture-and-decorations-texturepack.mcpack",
-      "view_add":"https://i.imgur.com/gyrzXvC.jpg",
-      "des_add":"file:///android_asset/furniture2.html"
-    },
-	{
-      "id":3,
-      "name_add":"Modern Furniture Pack",
-      "add_url":"https://archive.org/download/furniture-furnicraft-mod-addon/Modern%20Furniture%20Addon.zip",
-      "addB_url":"https://archive.org/download/furnitureminecraft/modern-furniture-bp-v45.mcpack",
-      "addR_url":"https://archive.org/download/furnitureminecraft/modern-furniture-rp-v45.mcpack",
-      "view_add":"https://i.imgur.com/5MPHaeE.jpg",
-      "des_add":"file:///android_asset/furniture3.html"
-    }
-  ],
-  "Maps":
-  [
-    {
-      "id":1,
-      "name_map":"Presents Modern House",
-      "map_url":"https://archive.org/download/housemapmcraft/Modern%20House.zip",
-      "view_map":"https://i.imgur.com/TWF7kGi.jpg",
-      "des_map":"file:///android_asset/house01.html"
-    },
-	{
-      "id":2,
-      "name_map":"Instant Houses Function Pack",
-      "map_url":"https://archive.org/download/housemapmcraft/Instant%20Houses%20By%20EndXenoc.zip",
-      "view_map":"https://i.imgur.com/IpD9to9.jpg",
-      "des_map":"file:///android_asset/house02.html"
-    },
-	{
-      "id":3,
-      "name_map":"Modern House Series",
-      "map_url":"https://archive.org/download/housemapmcraft/Modern%20House%20Series%20v0.1.zip",
-      "view_map":"https://i.imgur.com/28GxDnJ.jpg",
-      "des_map":"file:///android_asset/house03.html"
-    },
-	{
-      "id":4,
-      "name_map":"Rideable House",
-      "map_url":"https://archive.org/download/housemapmcraft/Rideable%20House%21%20V2.zip",
-      "view_map":"https://i.imgur.com/S6XLf3f.png",
-      "des_map":"file:///android_asset/house04.html"
-    },
-	{
-      "id":5,
-      "name_map":"Sandview Modern House",
-      "map_url":"https://archive.org/download/housemapmcraft/Sandview%20Modern%20House%20by%20FAL.zip",
-      "view_map":"https://i.imgur.com/eVEHgCk.jpg",
-      "des_map":"file:///android_asset/house05.html"
-    },
-	{
-      "id":6,
-      "name_map":"Seaside Modern House",
-      "map_url":"https://archive.org/download/housemapmcraft/SeasideModernHouse.mcworld",
-      "view_map":"https://i.imgur.com/OOQI4mI.jpg",
-      "des_map":"file:///android_asset/house06.html"
-    },
-	{
-      "id":7,
-      "name_map":"Self-Building Modern House",
-      "map_url":"https://archive.org/download/housemapmcraft/Self-Building%20Modern%20House%20July%202019.mcworld",
-      "view_map":"https://i.imgur.com/vBA8U4C.jpg",
-      "des_map":"file:///android_asset/house07.html"
-    },
-	{
-      "id":8,
-      "name_map":"Smart Modern House",
-      "map_url":"https://archive.org/download/housemapmcraft/SmartModernHouse.zip",
-      "view_map":"https://i.imgur.com/DlhPcWy.jpg",
-      "des_map":"file:///android_asset/house08.html"
-    },
-	{
-      "id":9,
-      "name_map":"Safest Modern House And Farm House",
-      "map_url":"https://archive.org/download/housemapmcraft/Modern%20Safest%20House%20v_1.7.mcworld",
-      "view_map":"https://i.imgur.com/EnCQknp.jpg",
-      "des_map":"file:///android_asset/house09.html"
-    },
-	{
-      "id":10,
-      "name_map":"Vintage Mansion & Village",
-      "map_url":"https://archive.org/download/housemapmcraft/MadeByImpetus.zip",
-      "view_map":"https://i.imgur.com/yT6yZwO.jpg",
-      "des_map":"file:///android_asset/house10.html"
-    },
-	{
-      "id":11,
-      "name_map":"Woodlux Modern House",
-      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
-      "view_map":"https://i.imgur.com/ZQul8RS.jpg",
-      "des_map":"file:///android_asset/house11.html"
-    }
-  ]
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN-D",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+         "main_ads_natives":"",
+         "main_ads_rewards":"",
+         "backup_ads_natives":"",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "backup_ads_rewards":"",
+         "open_ads_admob":"",
+         "open_ads_alien":"",
+         "switch_open_ads":"1",
+         "switch_banner_natives_ads":"",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "More":[
+      {
+         "id":1,
+         "title":"Ludo King",
+         "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+         "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      }
+   ],
+   "Skin":[
+      {
+         "id":1,
+         "name_skin":"Father",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin001.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin001.png"
+      },
+      {
+         "id":2,
+         "name_skin":"Father Monster",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin002.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin002.png"
+      },
+      {
+         "id":3,
+         "name_skin":"Father Mart",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin003.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin003.png"
+      },
+      {
+         "id":4,
+         "name_skin":"Father",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin004.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin004.png"
+      },
+      {
+         "id":5,
+         "name_skin":"Callies Father",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin005.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin005.png"
+      },
+      {
+         "id":6,
+         "name_skin":"Miner Father",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin006.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin006.png"
+      },
+      {
+         "id":7,
+         "name_skin":"King Father Herb",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin007.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin007.png"
+      },
+      {
+         "id":8,
+         "name_skin":"Father Figure",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin008.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin008.png"
+      },
+      {
+         "id":9,
+         "name_skin":"Steven Father",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin009.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin009.png"
+      },
+      {
+         "id":10,
+         "name_skin":"Father",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin010.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin010.png"
+      },
+      {
+         "id":11,
+         "name_skin":"Atome1 Father",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin011.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin011.png"
+      },
+      {
+         "id":12,
+         "name_skin":"Father Kuliano",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin012.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin012.png"
+      },
+      {
+         "id":13,
+         "name_skin":"ReisS Father",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin013.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin013.png"
+      },
+      {
+         "id":14,
+         "name_skin":"Anci Father",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin014.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin014.png"
+      },
+      {
+         "id":15,
+         "name_skin":"Father",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin015.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin015.png"
+      },
+      {
+         "id":16,
+         "name_skin":"Craft From Mother",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin016.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin016.png"
+      },
+      {
+         "id":17,
+         "name_skin":"Lila Skin Mother",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin017.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin017.png"
+      },
+      {
+         "id":18,
+         "name_skin":"Mother",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin018.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin018.png"
+      },
+      {
+         "id":19,
+         "name_skin":"Mother",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin019.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin019.png"
+      },
+      {
+         "id":20,
+         "name_skin":"Renzo Mother",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin020.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin020.png"
+      },
+      {
+         "id":21,
+         "name_skin":"Mother",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin021.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin021.png"
+      },
+      {
+         "id":22,
+         "name_skin":"Mother",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin022.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin022.png"
+      },
+      {
+         "id":23,
+         "name_skin":"Simp Girl Girls Ladies",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin023.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin023.png"
+      },
+      {
+         "id":24,
+         "name_skin":"Queen The Mother",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin024.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin024.png"
+      },
+      {
+         "id":25,
+         "name_skin":"SaryS Mother",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin025.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin025.png"
+      },
+      {
+         "id":26,
+         "name_skin":"Mother Slim",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin026.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin026.png"
+      },
+      {
+         "id":27,
+         "name_skin":"Mother",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin027.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin027.png"
+      },
+      {
+         "id":28,
+         "name_skin":"Magnus Mother",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin028.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin028.png"
+      },
+      {
+         "id":29,
+         "name_skin":"My Mother",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin029.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin029.png"
+      },
+      {
+         "id":30,
+         "name_skin":"Mother Best",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin030.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin030.png"
+      },
+      {
+         "id":31,
+         "name_skin":"Spider",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin031.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin031.png"
+      },
+      {
+         "id":32,
+         "name_skin":"Heek Boy",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin032.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin032.png"
+      },
+      {
+         "id":33,
+         "name_skin":"Skin Son Go",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin033.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin033.png"
+      },
+      {
+         "id":34,
+         "name_skin":"Son Go",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin034.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin034.png"
+      },
+      {
+         "id":35,
+         "name_skin":"Skin Nueva Son Tan",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin035.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin035.png"
+      },
+      {
+         "id":36,
+         "name_skin":"Son Go Ultra",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin036.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin036.png"
+      },
+      {
+         "id":37,
+         "name_skin":"Son Of Darkness",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin037.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin037.png"
+      },
+      {
+         "id":38,
+         "name_skin":"Son Go",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin038.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin038.png"
+      },
+      {
+         "id":39,
+         "name_skin":"Son Joliux",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin039.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin039.png"
+      },
+      {
+         "id":40,
+         "name_skin":"Iron Super",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin040.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin040.png"
+      },
+      {
+         "id":41,
+         "name_skin":"Iron Super Tony",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin041.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin041.png"
+      },
+      {
+         "id":42,
+         "name_skin":"Iron Super Tony",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin042.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin042.png"
+      },
+      {
+         "id":43,
+         "name_skin":"Neon Iron Super",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin043.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin043.png"
+      },
+      {
+         "id":44,
+         "name_skin":"Iron Spider",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin044.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin044.png"
+      },
+      {
+         "id":45,
+         "name_skin":"Thorey",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin045.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin045.png"
+      },
+      {
+         "id":46,
+         "name_skin":"Thorrey",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin046.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin046.png"
+      },
+      {
+         "id":47,
+         "name_skin":"Thorrey",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin047.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin047.png"
+      },
+      {
+         "id":48,
+         "name_skin":"Super Human",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin048.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin048.png"
+      },
+      {
+         "id":49,
+         "name_skin":"Super Human Kryptonian",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin049.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin049.png"
+      },
+      {
+         "id":50,
+         "name_skin":"Super Human",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin050.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin050.png"
+      },
+      {
+         "id":51,
+         "name_skin":"Valor",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin051.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin051.png"
+      },
+      {
+         "id":52,
+         "name_skin":"Valor",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin052.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin052.png"
+      },
+      {
+         "id":53,
+         "name_skin":"Executive Jelly",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin053.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin053.png"
+      },
+      {
+         "id":54,
+         "name_skin":"Chief Executive",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin054.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin054.png"
+      },
+      {
+         "id":55,
+         "name_skin":"Yellow Executive",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin055.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin055.png"
+      },
+      {
+         "id":56,
+         "name_skin":"Crist Ronal",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin056.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin056.png"
+      },
+      {
+         "id":57,
+         "name_skin":"Crist Ronal Juv",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin057.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin057.png"
+      },
+      {
+         "id":58,
+         "name_skin":"Crist Ronal",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin058.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin058.png"
+      },
+      {
+         "id":59,
+         "name_skin":"Neym",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin059.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin059.png"
+      },
+      {
+         "id":60,
+         "name_skin":"Neym Jr",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin060.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin060.png"
+      },
+      {
+         "id":61,
+         "name_skin":"Neym",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin061.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin061.png"
+      },
+      {
+         "id":62,
+         "name_skin":"Neym Jr",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin062.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin062.png"
+      },
+      {
+         "id":63,
+         "name_skin":"Lio Mess",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin063.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin063.png"
+      },
+      {
+         "id":64,
+         "name_skin":"Lio Mess",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin064.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin064.png"
+      },
+      {
+         "id":65,
+         "name_skin":"Lio Mess",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin065.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin065.png"
+      },
+      {
+         "id":66,
+         "name_skin":"",
+         "skin_url":"https://kpopstickearn.files.wordpress.com/2022/11/forhomeskin066.png",
+         "view_skin":"https://kpopstickearn.files.wordpress.com/2022/11/viewhomeskin066.png"
+      }
+   ],
+   "Addons":[
+      {
+         "id":1,
+         "name_add":"Furniture Pack",
+         "add_url":"https://archive.org/download/furniture-furnicraft-mod-addon/Furniture%20-%20Furnicraft%20Mod%20%20Addon%20For%20Minecraft%20PE%201.19.2%2C%201.18.32.zip",
+         "addB_url":"https://archive.org/download/furnitureminecraft/furnicraft-v11_4-behavior.mcpackk",
+         "addR_url":"https://archive.org/download/furnitureminecraft/furnicraft-v11_4-resource.mcpack",
+         "view_add":"https://i.imgur.com/XNkNQSA.jpeg",
+         "des_add":"file:///android_asset/furniture1.html"
+      },
+      {
+         "id":2,
+         "name_add":"Furniture and Decorations Pack",
+         "add_url":"https://archive.org/download/furniture-furnicraft-mod-addon/Furniture%20and%20Decorations%20Add-on.zip",
+         "addB_url":"https://archive.org/download/furnitureminecraft/furniture-and-decorations-behaviorpack.mcpack",
+         "addR_url":"https://archive.org/download/furnitureminecraft/furniture-and-decorations-texturepack.mcpack",
+         "view_add":"https://i.imgur.com/gyrzXvC.jpg",
+         "des_add":"file:///android_asset/furniture2.html"
+      },
+      {
+         "id":3,
+         "name_add":"Modern Furniture Pack",
+         "add_url":"https://archive.org/download/furniture-furnicraft-mod-addon/Modern%20Furniture%20Addon.zip",
+         "addB_url":"https://archive.org/download/furnitureminecraft/modern-furniture-bp-v45.mcpack",
+         "addR_url":"https://archive.org/download/furnitureminecraft/modern-furniture-rp-v45.mcpack",
+         "view_add":"https://i.imgur.com/5MPHaeE.jpg",
+         "des_add":"file:///android_asset/furniture3.html"
+      }
+   ],
+   "Maps":[
+      {
+         "id":1,
+         "name_map":"Presents Modern House",
+         "map_url":"https://archive.org/download/housemapmcraft/Modern%20House.zip",
+         "view_map":"https://i.imgur.com/TWF7kGi.jpg",
+         "des_map":"file:///android_asset/house01.html"
+      },
+      {
+         "id":2,
+         "name_map":"Instant Houses Function Pack",
+         "map_url":"https://archive.org/download/housemapmcraft/Instant%20Houses%20By%20EndXenoc.zip",
+         "view_map":"https://i.imgur.com/IpD9to9.jpg",
+         "des_map":"file:///android_asset/house02.html"
+      },
+      {
+         "id":3,
+         "name_map":"Modern House Series",
+         "map_url":"https://archive.org/download/housemapmcraft/Modern%20House%20Series%20v0.1.zip",
+         "view_map":"https://i.imgur.com/28GxDnJ.jpg",
+         "des_map":"file:///android_asset/house03.html"
+      },
+      {
+         "id":4,
+         "name_map":"Rideable House",
+         "map_url":"https://archive.org/download/housemapmcraft/Rideable%20House%21%20V2.zip",
+         "view_map":"https://i.imgur.com/S6XLf3f.png",
+         "des_map":"file:///android_asset/house04.html"
+      },
+      {
+         "id":5,
+         "name_map":"Sandview Modern House",
+         "map_url":"https://archive.org/download/housemapmcraft/Sandview%20Modern%20House%20by%20FAL.zip",
+         "view_map":"https://i.imgur.com/eVEHgCk.jpg",
+         "des_map":"file:///android_asset/house05.html"
+      },
+      {
+         "id":6,
+         "name_map":"Seaside Modern House",
+         "map_url":"https://archive.org/download/housemapmcraft/SeasideModernHouse.mcworld",
+         "view_map":"https://i.imgur.com/OOQI4mI.jpg",
+         "des_map":"file:///android_asset/house06.html"
+      },
+      {
+         "id":7,
+         "name_map":"Self-Building Modern House",
+         "map_url":"https://archive.org/download/housemapmcraft/Self-Building%20Modern%20House%20July%202019.mcworld",
+         "view_map":"https://i.imgur.com/vBA8U4C.jpg",
+         "des_map":"file:///android_asset/house07.html"
+      },
+      {
+         "id":8,
+         "name_map":"Smart Modern House",
+         "map_url":"https://archive.org/download/housemapmcraft/SmartModernHouse.zip",
+         "view_map":"https://i.imgur.com/DlhPcWy.jpg",
+         "des_map":"file:///android_asset/house08.html"
+      },
+      {
+         "id":9,
+         "name_map":"Safest Modern House And Farm House",
+         "map_url":"https://archive.org/download/housemapmcraft/Modern%20Safest%20House%20v_1.7.mcworld",
+         "view_map":"https://i.imgur.com/EnCQknp.jpg",
+         "des_map":"file:///android_asset/house09.html"
+      },
+      {
+         "id":10,
+         "name_map":"Vintage Mansion & Village",
+         "map_url":"https://archive.org/download/housemapmcraft/MadeByImpetus.zip",
+         "view_map":"https://i.imgur.com/yT6yZwO.jpg",
+         "des_map":"file:///android_asset/house10.html"
+      },
+      {
+         "id":11,
+         "name_map":"Woodlux Modern House",
+         "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
+         "view_map":"https://i.imgur.com/ZQul8RS.jpg",
+         "des_map":"file:///android_asset/house11.html"
+      }
+   ]
 }
-
