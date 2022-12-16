@@ -3,10 +3,10 @@
 "Ads": [
     {
       "select_main_ads": "IRON",
-      "select_backup_ads":"null",
+      "select_backup_ads":"ADMOB",
       "main_ads_banner": "DefaultBanner",
       "main_ads_intertitial":"DefaultInterstitial",
-      "backup_ads_banner":"",
+      "backup_ads_banner":"ca-app-pub-1977787218198319/7970517064",
       "backup_ads_intertitial":"",
       "interval_intertitial": 2,
       "initialize_sdk":"17ba47c0d",
